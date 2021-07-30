@@ -58,7 +58,7 @@ while e != 5:
         print(f'O Maior número é: {max(lst)}')
         print('\n')
         print('[1]SOMAR -----[2]MULTIPLICAR -----[3]MAIOR-----[4]NOVOS NÚMEROS-----[5]SAIR')
-        e = int(input('Qual a sua escolha?': ))
+        e = int(input('Qual a sua escolha?: '))
 
     if e == 4:
         
